@@ -11,3 +11,8 @@ So let's talk more about the matter of visual search. Imagine you saw something 
 - __Javascript/React__: For frontend (_Future plan_)
 
 ## TODO List
+
+- [ ] Developing the raw idea in a jupyter notebook
+- [ ] Testing functionality locally 
+- [ ] Developing the web app
+- [ ] Making a small deploy server
