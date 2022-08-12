@@ -9,3 +9,5 @@ So let's talk more about the matter of visual search. Imagine you saw something 
 - __Python__: The main programming language for both AI and Backend.
 - __Tensorflow__: For performing the image search.
 - __Javascript/React__: For frontend (_Future plan_)
+
+## TODO List
