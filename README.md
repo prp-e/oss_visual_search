@@ -12,6 +12,7 @@ So let's talk more about the matter of visual search. Imagine you saw something 
 
 ## TODO List
 
+- [ ] Getting necessary dataset for basic tests
 - [ ] Developing the raw idea in a jupyter notebook
 - [ ] Testing functionality locally 
 - [ ] Developing the web app
