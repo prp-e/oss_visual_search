@@ -12,11 +12,11 @@ So let's talk more about the matter of visual search. Imagine you saw something 
 
 ## TODO List
 
-- [ ] Getting necessary dataset for basic tests
-    - [ ] Choosing a certain category from e-commerce websites (products with different looks)
-    - [ ] Gain API access 
-    - [ ] Retrive images and links and store them
-- [ ] Developing the raw idea in a jupyter notebook
+- [x] Getting necessary dataset for basic tests
+    - [x] Choosing a certain category from e-commerce websites (products with different looks)
+    - [x] Gain API access 
+    - [x] Retrive images and links and store them
+- [x] Developing the raw idea in a jupyter notebook
 - [ ] Testing functionality locally 
 - [ ] Developing the web app
 - [ ] Making a small deploy server
