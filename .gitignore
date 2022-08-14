@@ -190,5 +190,6 @@ pip-selfcheck.json
 
 *.json 
 notebooks/data/images/*
+notebooks/test_data/*
 notebooks/data/*.csv
 notebooks/meta-data-files/*
