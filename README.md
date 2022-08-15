@@ -10,6 +10,16 @@ So let's talk more about the matter of visual search. Imagine you saw something 
 - __Tensorflow__: For performing the image search.
 - __Javascript/React__: For frontend (_Future plan_)
 
+## Result (Image Only)
+
+### Input image
+
+![Input image](./skirt-2.jpg)
+
+### Search result
+
+![Search result](./skirt-search-result.png)
+
 ## TODO List
 
 - [x] Getting necessary dataset for basic tests
